@@ -1,0 +1,5 @@
+Depends on devxpress
+
++ Allows Virtual Path Navigation
++ Fixed Blink within Top Menu Text and its container
++ Also, allows passing data to Navigated Path
