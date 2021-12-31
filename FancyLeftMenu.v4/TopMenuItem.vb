@@ -454,7 +454,7 @@
 
     Private Sub TopMenuItem_MouseLeave(sender As Object, e As EventArgs) Handles Me.MouseLeave
         '   Make sure the mouse has really left
-        Dim p = Me.PointToClient(Windows.Forms.Control.MousePosition)
+        Dim p = Me.PointToClient(System.Windows.Forms.Control.MousePosition)
         Dim q = Me.Size
         If p.X < 1 OrElse p.Y < 1 OrElse
             p.X > q.Width OrElse p.Y > q.Height Then

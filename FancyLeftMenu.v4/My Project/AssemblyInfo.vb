@@ -11,14 +11,14 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("FancyLeftMenu.v4")> 
 <Assembly: AssemblyDescription("Library for integrating Left Menu to Desktop Apps")> 
 <Assembly: AssemblyCompany("EPRO")> 
-<Assembly: AssemblyProduct("FancyLeftMenu.v4")> 
-<Assembly: AssemblyCopyright("Copyright © EPRO 2008 - 2016")> 
+<Assembly: AssemblyProduct("FancyLeftMenu.v4")>
+<Assembly: AssemblyCopyright("Copyright © EPRO 2008 - 2022")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("8d806c88-af5b-4284-a382-b11ab2d06753")> 
+<Assembly: Guid("8d806c88-af5b-4284-a382-b11ab2d06753")>
 
 ' Version information for an assembly consists of the following four values:
 '
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.99.0.0")> 
-<Assembly: AssemblyFileVersion("1.99.8.0")> 
+<Assembly: AssemblyVersion("1.99.0.1")>
+<Assembly: AssemblyFileVersion("1.99.8.1")>
